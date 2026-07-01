@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6e0130/X/v1
+canonical_location: https://kanripo.org/bkk/KR6e0130/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴心要法門註
+  identifiers:
+    krp: KR6e0130
+    cbeta: X58n1005
+    cbeta_old_id: X58n1005
+    authorityid: CA0001449
+    json_key: X1005
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n1005.xml
+    old_id: X58n1005
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0130_000-X.yaml, hash: 'sha256:b6085403d18e8c429248e9b173335c21c3b367744cef775cf1972a64659d147b'}
+  - {seq: 1, filename: KR6e0130_001-X.yaml, hash: 'sha256:1989a81a652332a955b3c4990761686c4204c716bf4b45955f2c345ef1f9b3e9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0130_000-X.markers.yaml, hash: 'sha256:f003f59df668c3a3f992b9ab150afce301681895b4c9f369df3eedd017588802'}
+  - {seq: 1, role: markers, filename: assets/KR6e0130_001-X.markers.yaml, hash: 'sha256:4d7913322eb4243e78e561eb55dd770c2111c8faaf705479432d9908aa2d1fb3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0130_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 1020
+  label: 答順宗心要法門
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0130_X_001-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 答順宗心要法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0130_X_001-mulu-2
+    span:
+    - body
+    - 926
+    - 926
+  label: 心要法門頌
+  type: mulu
+  level: 1
+hash: sha256:e6c735dd587ef2bf50a54dfbaad70c3733cb6cd2d371542d98a2e5ea8ce41b60

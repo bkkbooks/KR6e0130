@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0130/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴心要法門註
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n1005.xml
+    old_id: X58n1005
+hash: sha256:b6085403d18e8c429248e9b173335c21c3b367744cef775cf1972a64659d147b
