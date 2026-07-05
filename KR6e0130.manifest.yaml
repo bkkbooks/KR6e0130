@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6e0130_000.yaml, hash: 'sha256:b6085403d18e8c429248e9b173335c21c3b367744cef775cf1972a64659d147b'}
-  - {seq: 1, filename: KR6e0130_001.yaml, hash: 'sha256:d9ed582dcd7540f4649322eb23e5fac154ab05bcd9d5bb677e4a96d9a1a0f684'}
+  - {seq: 1, filename: KR6e0130_001.yaml, hash: 'sha256:1989a81a652332a955b3c4990761686c4204c716bf4b45955f2c345ef1f9b3e9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0130_001.markers.yaml, hash: 'sha256:cb68be5a65e61ad935c59101b663c0384e19d01fee2b3d29d01dd012cbdc26e2'}
+  - {seq: 0, role: markers, filename: assets/KR6e0130_000.markers.yaml, hash: 'sha256:90e4317883b689677a2e26f7cd3889ba8d36cd5c1d54cc906f2a56d7e962c955'}
+  - {seq: 1, role: markers, filename: assets/KR6e0130_001.markers.yaml, hash: 'sha256:4d5d400a4d3b2e250b46753f16ff4feee72cdfc325b4cb13506f730f7bdc2488'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,9 +52,6 @@ table_of_contents:
   label: 心要法門頌
   type: mulu
   level: 1
-hash: sha256:ca65964231db5279454978a3b21258650b701a9a157de712e0150918802a0700
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8eae2ba0c4b786f06a5b4989d88bc196dca772e2c88dd758cf7206a3c257da31
 editions:
 - short: X
